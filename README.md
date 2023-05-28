@@ -13,10 +13,15 @@ all my code is under a GNU license, I am as copyleft as possible (other than the
 
 
 ## Places I've worked
-UNDERGRAD: University of California, Davis 🐄
-FRESHMAN SUMMER: Lawrence Livermore National Laboratories , National Ignition Facility 🦅
-SOPHOMORE SUMMER: BEAR Laboratories, UC Davis (Covid summer) 🤖
-JUNIOR SUMMER: Carnegie Mellon University Image Science Labs 👁️
-AFTER GRADUATION: Purdue University, Specere Labs 💡
+<ul>
+<li> UNDERGRAD: University of California, Davis 🐄
 
+<li> FRESHMAN SUMMER: Lawrence Livermore National Laboratories , National Ignition Facility 🦅<br />
+
+<li> SOPHOMORE SUMMER: BEAR Laboratories, UC Davis (Covid summer) 🤖<br />
+
+<li> JUNIOR SUMMER: Carnegie Mellon University Image Science Labs 👁️<br />
+
+<li> AFTER GRADUATION: Purdue University, Specere Labs 💡
+</ul>
 
