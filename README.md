@@ -31,11 +31,11 @@ all my code is under a GNU license, I am as copyleft as possible (other than the
   <li> IEEE ICORR</li>
 </ul>
   
-### Places I want to work
+### Technical Interests
 <ul>
-  <li> At least 1 early stage startup</li>
-  <li> At least one late/mid stage big tech company </li>
-  <li> From the International Space Station</li>
-  <li> My own company some day?</li>
-  <li> NASA sounds fun? Maybe a NASA contractor </li>
+  <li> Computer Vision </li>
+  <li> Spectroscopy </li>
+  <li> Assistive Robotics </li>
+  <li> Machine Learning </li>
+  <li> Space exploration! </li>
 </ul>
