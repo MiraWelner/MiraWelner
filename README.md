@@ -17,8 +17,7 @@ hi, i'm [Mira Welner](https://burningsilicon.dev/), a research programmer on the
 
 i am passionate about create machine learning techniques that are genuinely novel and highly computational, rather than applying a pre-existing framework to a new domain, and can be used as solutions to real and significant issues people face
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+all my code is under a GNU license, I am as copyleft as possible (other than the one time I worked for Lawrence Livermore Labs),
   
 - 💼 any freelance work? please contact me! [email](mailto:miraewelner@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
