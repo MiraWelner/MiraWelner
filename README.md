@@ -2,7 +2,7 @@
 
 <br />
 
-hi, i'm [Mira Welner](https://burningsilicon.dev/), a research programmer on the a journey to get PhD in computer vision and work in machine learning.
+hi, i'm [Mira Welner](https://burningsilicon.dev/), a research programmer on a journey to get PhD in computer vision and work in machine learning.
 
 i am passionate about create machine learning techniques that are genuinely novel and highly computational, rather than applying a pre-existing framework to a new domain, and can be used as solutions to real and significant issues people face
 
@@ -12,7 +12,7 @@ all my code is under a GNU license, I am as copyleft as possible (other than the
 - 💬 ask me about anything, i am happy to help;
 
 
-## Places I've worked
+### Places I've worked
 <ul>
 <li> UNDERGRAD: University of California, Davis 🐄
 
