@@ -1,8 +1,5 @@
 ### Hello!
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm [Mira Welner](https://burningsilicon.dev/), a research programmer on the a journey to get PhD in computer vision and work in machine learning.
