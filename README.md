@@ -17,3 +17,6 @@
 * [Corresponding Repository](https://github.com/MiraWelner/prosthetic_game)
 
 ### My work in Machine Learning applied to spectroscopy... coming soon! 
+
+### Looking for a job!
+Available to work on anything software related, particularly interested in working with data science or in a research focused role. Nothing in finance, no defense contractors (DOE/DOD is okay though)
