@@ -7,13 +7,13 @@
 
 ### My work in Computer Vision
 * [<i>Unsupervised Identification of Materials with Hyperspectral Images</i>](https://ojs.aaai.org/index.php/AAAI/article/view/21708)
-* [Corrensponding Slides](https://burningsilicon.dev/docs/rice_poster.pdf)
-* [Corrensponding Repository](https://github.com/MiraWelner/Unsupervised-Identification-of-Materials-with-Hyperspectral-Images-code)
+* [Corresponding Slides](https://burningsilicon.dev/docs/rice_poster.pdf)
+* [Corresponding Repository](https://github.com/MiraWelner/Unsupervised-Identification-of-Materials-with-Hyperspectral-Images-code)
 
 
 ### My work in Robotics
 * [<i>Unsupervised Identification of Materials with Hyperspectral Images</i>](https://ojs.aaai.org/index.php/AAAI/article/view/21708)
 * [Poster on my (small) portion of the paper](https://burningsilicon.dev/docs/schofield_presentation.pdf)
-* [Corrensponding Repository](https://github.com/MiraWelner/prosthetic_game)
+* [Corresponding Repository](https://github.com/MiraWelner/prosthetic_game)
 
 ### My work in Machine Learning applied to spectroscopy... coming soon! 
