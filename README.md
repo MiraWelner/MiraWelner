@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m currently working as a research assistant for the amazing Professor Thomas Edwin Beechem III at Specere labs.
 - 🔬 I’m currently learning about <b>spectroscopy, domain transfer learning, and multimodal machine learning.</b>
 - 📫 How to reach me: Email me at miraewelner@gmail.com
-
+- ⚖️ I use GNU licensing whenever possible. Sometimes when I work with universities or national labs I am unable to do so, but all my personal work will ALWAYS be open source
 
 ### My work in Computer Vision
 * [<i>Unsupervised Identification of Materials with Hyperspectral Images</i>](https://ojs.aaai.org/index.php/AAAI/article/view/21708)
