@@ -13,7 +13,7 @@
 
 ### My work in Robotics
 * [<i>Characterizing Pediatric Hand Grasps During Activities of Daily Living to Inform Robotic Rehabilitation and Assistive Technologies
-</i>]([https://ojs.aaai.org/index.php/AAAI/article/view/21708](https://pubmed.ncbi.nlm.nih.gov/36176073/)
+</i>](https://pubmed.ncbi.nlm.nih.gov/36176073/)
 * [Poster on my (small) portion of the paper](https://burningsilicon.dev/docs/schofield_presentation.pdf)
 * [Corresponding Repository](https://github.com/MiraWelner/prosthetic_game)
 
