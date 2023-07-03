@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Specere Labs! I'm on a quest to get a PhD and work with computer vision! Someday I'd like to go into low earth orbit or higher
+## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Carnegie Mellon University! I'm on a quest to get a PhD and work with computer vision! Someday I'd like to go into low earth orbit or higher
 
-- 👨🏻‍💻 I’m currently working remotely part time for Dr. Shantenu Jha at Brookhaven National Laboratories and for Professor Hammal at CMU. Okay... <i>technically</i> I'm onboarding for both of them and haven't started work but I'm getting there!
+- 👨🏻‍💻 I’m currently working part time for Professor Hammal at Carnegie Mellon University!
 - 🔬 I’m currently learning about <b>spectroscopy, domain transfer learning, and multimodal machine learning</b>
 - 📫 How to reach me: Email me at miraewelner@gmail.com
 - ⚖️ I use GNU licensing whenever possible. Sometimes when my work is for a seperate entity I am unable to do so, but all my personal work will ALWAYS be open source
@@ -20,4 +20,4 @@
 ### My work in Machine Learning applied to spectroscopy... coming soon! 
 
 ### Looking for an additional job!
-I'm currently working part time - I am interested in another part time position, remote or in person. Available to work on anything software related, particularly interested in working with data science or in a research focused role. Nothing in finance, no defense contractors (DOE/DOD is okay though)
+I'm currently working part time - I am interested in another part time position, remote or in person in Pittsburgh. Available to work on anything software related, particularly interested in working with data science or in a research focused role.
