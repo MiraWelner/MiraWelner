@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Carnegie Mellon University. I'm on a quest to get a PhD and work with computer vision! Someday I'd like to go into low earth orbit or higher
+## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Carnegie Mellon University. I'm on a quest to get a PhD and work with computer vision! Someday I'd like to go into low earth orbit or higher 🚀
 
 - 👨🏻‍💻 I’m currently working part time for Professor Hammal at Carnegie Mellon University!
 - 🔬 I’m currently learning about <b>spectroscopy, domain transfer learning, and multimodal machine learning</b>
