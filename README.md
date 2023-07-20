@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Carnegie Mellon University. I'm on a quest to get a PhD and work with computer vision! Someday I'd like to go into low earth orbit or higher 🚀
 
-- 👨🏻‍💻 I’m currently working part time for Professor Hammal at Carnegie Mellon University!
+- 👨🏻‍💻 I’m currently working part time for the Carnegie Mellon University Robotics Institute!
 - 🔬 I’m currently learning about <b>spectroscopy, domain transfer learning, and multimodal machine learning</b>
 - 📫 How to reach me: Email me at miraewelner@gmail.com
 - ⚖️ I use GNU licensing whenever possible. Sometimes when my work is for a seperate entity I am unable to do so, but all my personal work will ALWAYS be open source
