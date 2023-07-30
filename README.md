@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Carnegie Mellon University. I'm on a quest to get a PhD and work with computer vision! Someday I'd like to go into low earth orbit or higher 🚀
 
-- 👨🏻‍💻 I’m currently working part time for the Carnegie Mellon University Robotics Institute!
+- 👨🏻‍💻 I’m currently working for the Carnegie Mellon University Robotics Institute and on a project for Professor Cohen at the University of Pittsburgh!
 - 🔬 I’m currently learning about <b>spectroscopy, domain transfer learning, and multimodal machine learning</b>
 - 📫 How to reach me: Email me at miraewelner@gmail.com
 - ⚖️ I use GNU licensing whenever possible. Sometimes when my work is for a seperate entity I am unable to do so, but all my personal work will ALWAYS be open source
@@ -18,6 +18,3 @@
 * [Corresponding Repository](https://github.com/MiraWelner/prosthetic_game)
 
 ### My work in Machine Learning applied to spectroscopy... coming soon! 💡
-
-### Looking for an additional job! 💵 
-I am interested in part time or full time position, remote or in person in Pittsburgh. Available to work on anything software, tech, or IT related, particularly interested in working with data science or in a research focused role.
