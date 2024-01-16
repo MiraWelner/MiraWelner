@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at SignatureDX. I'm on a quest to get a PhD and work with machine learning applied to biological and medical systems! Someday I'd like to go into low earth orbit or higher 🚀
+## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer at Signature Diagnostics. I'm on a quest to get a PhD and work with machine learning applied to biological and medical systems! Someday I'd like to go into low earth orbit or higher 🚀
 
 - 👨🏻‍💻 I’m currently working for SignatureDX, an early stage biomedical startup
 - 🔬 I’m currently learning about (and interested in) <b>infrared spectroscopic systems, and epigenomics</b>
