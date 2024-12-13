@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer who currently works in the CMU Computational Biology Department. I hope to eventually get a PhD and found a startup which applies machine learning to medical reseach! Someday I'd like to go into low earth orbit or higher 🚀
+## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer. I hope to eventually get a PhD and found a startup which applies machine learning to medical reseach! Someday I'd like to go into low earth orbit or higher 🚀
 
-- 👨🏻‍💻 I’m currently working for Professor Min Xu in the CMU Computational Biology department, as a research associate
+- 👨🏻‍💻 I’m currently working for Professor Min Xu in the CMU Computational Biology department, but it is unpaid and I am looking for work!
 - 🔬 I’m currently learning about (and interested in) <b>cryogenic electron tomography</b>
 - 📫 Email me at miraewelner@gmail.com
 - ⚖️ I use GNU licensing whenever possible. Sometimes when my work is for a seperate entity I am unable to do so, but all my personal work will ALWAYS be open source
