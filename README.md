@@ -21,4 +21,4 @@
 
 ### My work in Machine Learning applied to spectroscopy... coming soon! 💡
 
-Outside of engineering I am interested in martial arts, guitar and D&D
+Outside of engineering I am interested in martial arts, guitar, gongfu, and D&D
