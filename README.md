@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mira Welner, a Data Scientist and Programmer. I hope to eventually get a PhD and found a startup which applies machine learning to medical reseach! Someday I'd like to go into low earth orbit or higher 🚀
 
 - 👨🏻‍💻 I’m currently working for Professor Deeptankar DeMazumder in the McGowan Institute of Regenerative Medicine
-- 🔬 I’m currently learning about (and interested in) <b>the cardiovascular system and ECG signals</b>
+- 🔬 I’m currently learning about (and interested in) <b>the cardiovascular system and ECG signals</b> and <b>Generative Adversarial Networks (called GANs by humans)</b>
 - 📫 Email me at miraewelner@gmail.com
 - ⚖️ I use GNU licensing whenever possible. Sometimes when my work is for a seperate entity I am unable to do so, but all my personal work will ALWAYS be open source
 - Interested in contributing to projects that the NIH will no longer fund due to recent executive orders
