@@ -2,10 +2,10 @@
 ### I hope to get a PhD in applying machine learning and data science to biomedical research, and following that, continue to research in industry.
 ### Someday I'd like to go into low earth orbit or higher 🚀
 
-- 👨🏻‍💻 I’m currently working for Professor Deeptankar DeMazumder in the [McGowan Institute of Regenerative Medicine](https://mirm-pitt.net/)
-- 🌒 On the side I am contracting for [Hermit Tech](https://www.hermit-tech.com/)
-- 🔬 I’m currently learning about (and interested in) <b>interpretation of ECG signals and other carardiovascular electronic records</b> and <b>Generative Adversarial Networks</b>
-- 📫 Email me at miraewelner@gmail.com
+- I’m currently working for Professor Deeptankar DeMazumder in the [McGowan Institute of Regenerative Medicine](https://mirm-pitt.net/)
+- On the side I am contracting for [Hermit Tech](https://www.hermit-tech.com/)
+- I’m currently learning about (and interested in) <b>interpretation of ECG signals and other carardiovascular electronic records</b> and <b>Generative Adversarial Networks</b>
+- Email me at miraewelner@gmail.com
 
 ### My work in Computational Spectroscopy 🌈
 * [<i>Sparse Infrared Spectroscopy for Detection of Volatile Organic Compounds</i>](https://arxiv.org/abs/2506.20678)
