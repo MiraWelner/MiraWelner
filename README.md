@@ -7,9 +7,9 @@
 - I’m currently learning about (and interested in) <b>interpretation of ECG signals and other carardiovascular electronic records</b> and <b>Generative Adversarial Networks</b>
 - Email me at miraewelner@gmail.com
 
-### My work in Cardiological Bioinformatics
+### My work in Cardiological Bioinformatics 🫀
 * [<i>Bayesian analysis of sinus rhythm predicts 10-year incidence of new onset atrial fibrillation in ostensibly healthy community adults</i>](https://mirawelner.com/docs/macsos.html)
-* I'll publish the codebase when the paper comes out because the poster repo is boring
+* I'll publish the codebase when the paper comes out because the poster repo is boring (nothing against STATA but its like 20 lines)
 
 ### My work in Computational Spectroscopy 🌈
 * [<i>Sparse Infrared Spectroscopy for Detection of Volatile Organic Compounds</i>](https://arxiv.org/abs/2506.20678)
